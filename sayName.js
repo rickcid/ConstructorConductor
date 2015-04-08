@@ -21,3 +21,4 @@ Person.prototype.sayName = function() {
 
 user1.sayName();
 user2.sayName();
+user3.sayName();
